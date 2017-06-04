@@ -1,6 +1,12 @@
 # Space Race #
 Placeholder Title
 
+## Concept ##
+A freemium or pay-to-win model MMO that initially concentrates players in one area 
+
+## Gameplay #
+Web application MMO with an interface compatable with desktop and medium to large format mobile interfaces.
+
 ## Basic Features ##
 ### Map ###
 - 2d representation of a galaxy with stars and other navigable locations as points
